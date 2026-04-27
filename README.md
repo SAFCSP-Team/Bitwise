@@ -8,3 +8,7 @@ This repository serves as a reference for numbering systems, bitwise operations,
 - [Binary-Arithmetic](./Content/05.Binary-Arithmetic.md) 
 - [Encoding](./Content/06.Encoding.md)
 - [Masks](./Content/07.Mask.md)
+
+
+>[!IMPORTANT]
+> The content is updated frequently. For any feedback, reach out to us.
